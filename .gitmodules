@@ -1,0 +1,6 @@
+[submodule "nebula1.0"]
+	path = nebula1.0
+	url = git@github.com:MMyheart/nebula1.0.git
+[submodule "euler"]
+	path = euler
+	url = git@github.com:MMyheart/euler.git
